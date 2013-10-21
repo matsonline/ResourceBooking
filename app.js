@@ -1,0 +1,1 @@
+﻿var rbApp = angular.module('rbApp', ['ngTouch']);
